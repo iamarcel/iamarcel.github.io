@@ -1,15 +1,14 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: shortname
+title:            Marcel Samyn
+description:      This is my blog-thing.
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:              # //mmistakes.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Marcel Samyn
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "I am Marcel. I like computers and stuff."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -21,7 +20,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -30,9 +29,9 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Brussels
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # Amount of posts to show on home page
