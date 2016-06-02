@@ -1,0 +1,3 @@
+[submodule "syntax"]
+	path = syntax
+	url = https://github.com/iamarcel/syntax-highlight.git
