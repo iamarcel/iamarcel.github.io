@@ -32,7 +32,7 @@ bing_verify:
 timezone:    Europe/Brussels
 future:      true
 highlighter: pygments
-markdown:    redcarpet
+markdown:    kramdown
 
 # Amount of posts to show on home page
 paginate: 5
